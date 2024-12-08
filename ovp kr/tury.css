@@ -1,0 +1,160 @@
+.product {
+   position: absolute;
+   top: 53%;
+   left: 30%;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+.image {
+   margin-bottom: 10px;
+}
+
+.image img {
+   height: 120px;
+   width: 180px;
+   object-fit: cover;
+   border-radius: 7px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.info h3 {
+   font-size: 21px;
+   margin-bottom: 0;
+   text-align: center;
+}
+
+.rating {
+   margin-bottom: 0;
+   padding-left: 0;
+   list-style-type: none;
+   text-align: center;
+}
+
+.rating li {
+   display: inline-block;
+   color: rgb(255, 166, 0);
+   text-align: center;
+}
+
+.info-price {
+   display: flex;
+   margin-top: 10px;
+   text-align: center;
+}
+
+.price {
+   font-size: 30px;
+}
+
+.product1 {
+   position: absolute;
+   top: 53%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+.product2 {
+   position: absolute;
+   top: 53%;
+   left: 70%;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+p {
+   text-align: center;
+}
+
+span {
+   text-align: center;
+}
+
+.bordered7 {
+   border: 2px solid #FFD600;
+   padding: 5px;
+   width: 90px;
+   height: 20px;
+   background-color: #FFD600;
+   position: absolute;
+   top: 75%;
+   left: 30%;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+.bordered8 {
+   border: 2px solid #FFD600;
+   padding: 5px;
+   width: 90px;
+   height: 20px;
+   background-color: #FFD600;
+   position: absolute;
+   top: 75%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+.bordered9 {
+   border: 2px solid #FFD600;
+   padding: 5px;
+   width: 90px;
+   height: 20px;
+   background-color: #FFD600;
+   position: absolute;
+   top: 75%;
+   left: 70%;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+.bordered10 {
+   border: 2px solid #FFD600;
+   padding: 5px;
+   width: 60px;
+   height: 15px;
+   background-color: #FFD600;
+   position: absolute;
+   top: 36%;
+   left: 25.50%;
+   z-index: 1;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+.bordered11 {
+   border: 2px solid #FFD600;
+   padding: 5px;
+   width: 60px;
+   height: 15px;
+   background-color: #FFD600;
+   position: absolute;
+   top: 36%;
+   left: 45.30%;
+   z-index: 1;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+.bordered12 {
+   border: 2px solid #FFD600;
+   padding: 5px;
+   width: 75px;
+   height: 15px;
+   background-color: #FFD600;
+   position: absolute;
+   top: 36%;
+   left: 65.90%;
+   z-index: 1;
+   transform: translate(-50%, -50%);
+   cursor: pointer;
+}
+
+.tt {
+   font-size: 16px;
+   text-align: center;
+}

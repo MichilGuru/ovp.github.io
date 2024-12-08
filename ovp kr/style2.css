@@ -1,0 +1,196 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-color: #94f6ff;
+    color: black;
+}
+
+
+.rectangle {
+    width: 1500px;
+    height: 600px;
+    background-color: #3b3b3b;
+  }
+  
+.bordered {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    width: 250px;
+    height: 45px;
+    background-color: #00D1FF;
+    position: absolute;
+    top: 25%;
+    left: 10.20%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.bordered1 {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    width: 400px;
+    height: 45px;
+    background-color: #00D1FF;
+    position: absolute;
+    top: 25%;
+    left: 35.71%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.bordered2 {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    width: 400px;
+    height: 45px;
+    background-color: #00D1FF;
+    position: absolute;
+    top: 25%;
+    left: 66.41%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.bordered3 {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    width: 250px;
+    height: 45px;
+    background-color: #00D1FF;
+    position: absolute;
+    top: 25%;
+    left: 91.90%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+a {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.photo1 {
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 3.10%;
+    left: 0%;
+}
+
+.photo2 {
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 3.10%;
+    left: 81.70%;
+}
+
+img {
+    width: 290px;
+    height: 125px;
+}
+
+.text2 {
+    position: absolute;
+    top: 1%;
+    left: 35%;
+    font-size: 20px;
+    color: #f0f0f0;
+}
+
+.text1 {
+    position: absolute;
+    top: 35%;
+    left: 20%;
+    font-size: 18px;
+    color: #f0f0f0;
+}
+
+.bordered4 {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    width: 843px;
+    height: 88px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 11.32%;
+    left: 51.05%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.bordered5 {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    width: 250px;
+    height: 340px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 318%;
+    left: -16.60%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.bordered6 {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+    width: 250px;
+    height: 340px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 318%;
+    left: 116.60%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.button {
+    text-align: center;
+    background-color: rgb(198, 109, 0);
+}
+
+.o-nas {
+    font-size: 18px;
+    position: absolute;
+    top: 320%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.fjf {
+    position: absolute;
+    top: 190%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.Bleach {
+    color: white;
+    font-size: 18px;
+}
+.Naruto{
+    color: white;
+    font-size: 18px;
+}
+.One{
+    color: white;
+    font-size: 18px;
+}
+.yatoro{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.registrasia {
+    color: white;
+}

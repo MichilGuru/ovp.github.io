@@ -1,0 +1,25 @@
+.image3 {
+    width: 180px;
+    height: 150px;
+    position: absolute;
+    top: 55%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+h2 {
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    cursor: pointer
+}
+
+.text-k3 {
+    position: absolute;
+    top: 55%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    cursor: pointer
+}
